@@ -1,0 +1,10 @@
+This is homework 1 for CS 613, by Shangqi Wu.
+
+sw843_HW1_Theory.pdf contains solutions to theory problems, p1 to p4. p5.m, p6.m, p7.m are programs to problem 5, 6 and 7 respectively. 
+
+For 3 programs:
+i. All of them fulfill requirements described in homework instruction.
+ii. All of them are written by Matlab 2015b, on OS X 10.11
+iii. Run with Matlab 2015b
+iv. Open p5.m, p6.m, p7.m and run them with Matlab 2015b in order.
+v. Please make sure 2 csv files are under the same directory with *.m files.
